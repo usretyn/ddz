@@ -2,6 +2,6 @@
 #define _POKER_SUIT_H_
 #include "PokerMacros.h"
 enum  class Suit {
-
+	JOKER,SPADE,HEART,CLUB,DIAMOND
 };
 #endif 
