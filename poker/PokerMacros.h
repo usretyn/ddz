@@ -3,4 +3,5 @@
 #define USING_NS_POKER  using namespace poker
 #define NS_POKER_BEGIN  namespace poker {
 #define NS_POKER_END    }
+#define NS_POKER ::poker
 #endif 
