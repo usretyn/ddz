@@ -36,12 +36,30 @@
     <ClInclude Include="Card.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Rule.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DdzRule.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Category.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Card.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Rule.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DdzRule.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Category.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
